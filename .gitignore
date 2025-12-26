@@ -1,0 +1,14 @@
+# Base de datos
+*.sql
+
+# Configuración local
+modelos/conexion.php
+
+# Archivos temporales
+*.log
+*.cache
+
+# Sistema
+.DS_Store
+Thumbs.db
+
