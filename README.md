@@ -1,7 +1,7 @@
 ##Descripción del Proyecto
 
 Este proyecto es una aplicación web desarrollada utilizando PHP, MySQL, JavaScript, HTML y CSS, orientada a la gestión de datos mediante interfaces web dinámicas, con control de acceso basado en roles y permisos.
-La aplicación implementa un CRUD completo para múltiples módulos, tales como Categorías, Empleados, Productos, Usuarios, entre otros, garantizando una administración eficiente y segura de la información.
+La aplicación implementa un CRUD completo para múltiples módulos, tales como Categorías, Empleados, Productos, Usuarios, entre otros, garantizando una administración eficiente y segura de la información. Las operaciones CRUD se realizan mediante AJAX para una experiencia de usuario fluida y sin recargas de página.
 
 **Tecnologías y Herramientas Utilizadas**
 Backend: PHP
