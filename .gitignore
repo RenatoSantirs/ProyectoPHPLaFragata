@@ -1,8 +1,8 @@
 # Base de datos
-*.sql
+#*.sql
 
 # Configuración local
-modelos/conexion.php
+#modelos/conexion.php
 
 # Archivos temporales
 *.log
